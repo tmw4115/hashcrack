@@ -3,7 +3,7 @@ HashCrack - CustomTkinter GUI for Hashcat because I hated using the command line
 "CTF" Hash Cracking Tool
 
 Requirements:  pip install customtkinter
-Also requires:  Hashcat, obviously. You just need to get to the hashcat.exe path.
+Also requires:  Hashcat, obviously. You just need to get to the hashcat.exe path. |
 
 """
 
