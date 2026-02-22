@@ -202,7 +202,7 @@ class HashCrackPro(ctk.CTk):
     # ─────────────────────────────────────────────────────────────────────────
 
     def _build_ui(self):
-        self.title("HashCrack - totti's super mega CTF hash cracking GUI")
+        self.title("HashCrack - totti's super mega CTF hash cracking GUI v.1.1.3")
         self.geometry("1100x820")
         self.minsize(900, 650)
         self.configure(fg_color=BG_ROOT)
